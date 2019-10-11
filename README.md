@@ -1,6 +1,6 @@
 # JAMstack Trees :evergreen_tree: - Workshop End
 
-![Screenshot](https://raw.githubusercontent.com/kristinbaumann/jamstack-trees/master/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/kristinbaumann/jamstack-trees-workshop-end/master/screenshot_end.png)
 
 ## Why and What?
 
